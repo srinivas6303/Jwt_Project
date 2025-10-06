@@ -81,3 +81,6 @@ Clone the repository:
 ## Notes
 - This is a simple JWT project for learning purposes.
 - It is not integrated with Spring Security or any framework.
+
+## Resource
+- Link: https://docs.google.com/document/d/1TZ9N8M1iNgrOrkK1-DPq9tb9J8ab0fAOHblbw0507rA/edit?usp=sharing
